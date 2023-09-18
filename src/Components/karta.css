@@ -1,0 +1,33 @@
+.karta{
+    width: 450px;
+    height: 250px;
+    background-color: black;
+    border-radius: 10px;
+    background-color:#FA7800;
+    background-image: linear-gradient( #faae76,#FA7800);
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+#miqdor{
+    position: relative;
+    top: calc(50% - 50px);
+    left: calc(50% - 60px);
+}
+
+#miqdor h5{
+    color: white;
+    font-family: Mail Sans Roman;
+    font-size: 16px;
+    position: relative;
+    top: -30px;
+}
+
+#miqdor h1{
+    color: white;
+    position: relative;
+    left: -50px;
+    font-size: 50px;
+}

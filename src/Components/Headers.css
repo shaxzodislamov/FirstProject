@@ -1,0 +1,50 @@
+.head{
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    top: 15px;
+    left: -30px;
+}
+
+.head button{
+    width: 170px;
+    height: 40px;
+    background-color: #7735E0;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 3px 5px;
+    margin: 10px 3px;
+}
+
+.Head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+
+.Head p {
+    margin: 0px 80px;
+    font-size: 18px;
+    color: #23202A;
+    position: absolute;
+    left: 170px;
+    top: 30px;
+    z-index: 1;
+}
+
+#img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #FA7800;
+    padding: 3px;
+    position: relative;
+    top: 16px;
+    left: -400px;
+}
+

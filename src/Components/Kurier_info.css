@@ -1,0 +1,51 @@
+.kurier2 img{
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+
+.statistika{
+    width: 930px;
+    height: 600px;
+    border: 1px solid grey;
+    position: relative;
+    top: 180px;
+    left: 150px;
+}
+
+.kurier2 h2{
+    position: relative;
+    top: 110px;
+    left: -10px;
+    font-size: 16px;
+}
+
+.kurier2 button{
+    width: 190px;
+    height: 25px;
+    position: relative;
+    top: 120px;
+    left: 478px;
+    font-size: 12px;
+    border: none;
+    background-color: #7735E0;
+    border-radius: 5px;
+    color: white;
+    font-family: Mail Sans Roman;
+}
+
+#nav-bar{
+    width: 85%;
+    height: 100vh;
+    border: 1px solid #FAF2EE;
+    margin: 10px;
+    position: relative;
+    top: 170px;
+    left: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.karta-item{
+    margin-right: 50px;
+}

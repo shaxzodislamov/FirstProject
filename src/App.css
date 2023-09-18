@@ -1,0 +1,83 @@
+
+.navBar{
+    width: 240px;
+    height: 100vh;
+    background-color: #FAF2EE;
+    border-radius: 0 10px 10px 0;
+    position: absolute;
+}
+
+.img{
+
+    padding: 10px 50px;
+}
+
+.img img{
+    width: 100px;
+    position: relative;
+    left: 25px;
+}
+
+.navBar h2{
+    color: #23202A;
+    font-family: Mail Sans Roman;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px; /* 144.444% */
+    letter-spacing: 0.9px;
+}
+
+.navBar ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    position: relative;
+    top: 30px;
+    padding: 0 30px;
+
+}
+
+.navBar ul li{
+    /*margin: 5px 60px;*/
+    color: rgba(35, 32, 42, 0.60);
+    text-align: start;
+    font-family: Mail Sans Roman;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px; /* 137.5% */
+    letter-spacing: 0.8px;
+    display: flex;
+    padding: 5px 10px;
+    padding-left: 30px ;
+
+}
+
+#chiqish {
+    position: relative;
+    top: 300px;
+}
+
+
+
+.active1{
+    color: #FA7800 !important;
+    background-color:rgba(255, 147, 47, 0.20);
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+
+.navBar li img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: -5px;
+}
+
+#chiqish{
+    position: relative;
+    top: 130px;
+    color: #FF0000;
+}
+
